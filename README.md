@@ -1,7 +1,7 @@
 🎮Ronin Gate is a Unity-based Android game developed as an academic project with a strong focus on (vector-based directional combat mechanics)
 
 👩🏻‍💻Team members
-Yasaman Bagheri
+Yasaman Bagheri &
 Elham Azizizadeh
 
 🔪Gameplay Overview
